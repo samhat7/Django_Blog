@@ -6,6 +6,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
+
 package bean;
 
 import bean.accounting.Invoice;
@@ -30,7 +31,7 @@ import template.Displays;
 import template.UITemplate;
 import template.screen.TemplateDefault;
 import util.BeanUtil;
-
+// dsdsdsds
 /**
  *
  * @author Charliemagne Mark
